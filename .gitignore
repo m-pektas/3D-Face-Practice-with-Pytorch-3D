@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+cub-1.10.0
+1.10.0.tar.gz
+*.mat
